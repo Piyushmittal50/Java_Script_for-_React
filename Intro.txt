@@ -1,0 +1,4 @@
+--->   arrow function
+--->   annonomus function
+--->   Ternary operater instead of if-else
+--->   objects in js
